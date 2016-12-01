@@ -4,26 +4,26 @@ dagobah - The Solar System for Galaxy Training
 > "The planet shown in Dagobah, in the Sluis sector, is a world of murky swamps, steaming bayous, and petrified forests."
 
 ---
-**Salt Lake City - 7th to 11th November 2016**
+**Melbourne - 6th to 9th February 2017**
 
-[Event Logisitics](https://wiki.galaxyproject.org/Events/AdminTraining2016/Logistics) | [Admin Training Home Page](https://wiki.galaxyproject.org/Events/AdminTraining2016)
+[Event Logisitics]() | [Admin Training Home Page]()
 
-jump to [Monday](#monday) | [Tuesday](#tuesday) | [Wednesday](#wednesday) | [Thursday](#thursday) | [Friday](#friday)
+jump to [Monday](#monday) | [Tuesday](#tuesday) | [Wednesday](#wednesday) | [Thursday](#thursday)
 
-Built slides have [an index](https://martenson.github.io/dagobah-training/).
+Built slides have [an index](https://gvlproject.github.io/dagobah-training/).
 
 ### Instructors
 
 * (N)ate Coraor - Galaxy Project, BMB, Penn State University, USA
 * (S)imon Gladman - VLSCI, University of Melbourne, Australia
-* (D)an Blankenberg - Galaxy Project, BMB, Penn State University, USA
-* (M)artin Čech - Galaxy Project, BMB, Penn State University, USA
-* Dave (C)lements - Galaxy Project, Department of Biology, Johns Hopkins University, USA
+* (E)nis Afgan - Galaxy Project, Department of Biology, Johns Hopkins University, USA
+* (B)jörn Grüning - Fribourg, Germany
+* (R)oss Lazarus - Galaxy Legend - IDI Baker Institute, Australia.
 
 ## Timetable
 ### Basic Sessions
 #### Monday
-**7th November** - [Salt Lake City Library - Conference Room Level 4](http://www.slcpl.org/rooms/)
+**6th February** - [TBC](https://www.carltonconnect.com.au/our-community/lab-14/)
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -43,7 +43,7 @@ Built slides have [an index](https://martenson.github.io/dagobah-training/).
 | 20:30 | Close Day 1 | | All |
 
 #### Tuesday
-**8th November** - [Salt Lake City Library - Conference Room Level 4](http://www.slcpl.org/rooms/)
+**7th February** - [TBC](https://www.carltonconnect.com.au/our-community/lab-14/)
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -65,7 +65,7 @@ Built slides have [an index](https://martenson.github.io/dagobah-training/).
 ### Advanced Sessions
 
 #### Wednesday
-**9th November** - [Commander's house - North & South Parlor and Sun Room](http://www.universityguesthouse.com/Commanders-House/map#tab_2)
+**8th February** - [TBC](https://www.carltonconnect.com.au/our-community/lab-14/)
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -85,7 +85,7 @@ Built slides have [an index](https://martenson.github.io/dagobah-training/).
 | 20:30 | Close day 1 | | All |
 
 #### Thursday
-**10th November** - [Commander's house - North & South Parlor and Sun Room](http://www.universityguesthouse.com/Commanders-House/map#tab_2)
+**9th February** - [TBC](https://www.carltonconnect.com.au/our-community/lab-14/)
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -102,8 +102,6 @@ Built slides have [an index](https://martenson.github.io/dagobah-training/).
 | 19:00 | Using public and private cloud compute resources | [Slides](https://martenson.github.io/dagobah-training/006-clouds/clouds.html) | (S) |
 | 20:30 | Close day 2 | | All |
 
-#### Friday
-**11th November** - [Commander's house - North & South Parlor and Sun Room](http://www.universityguesthouse.com/Commanders-House/map#tab_2)
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
