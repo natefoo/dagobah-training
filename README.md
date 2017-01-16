@@ -24,7 +24,7 @@ Built slides have [an index](https://gvlproject.github.io/dagobah-training/).
 
 ## Timetable
 #### Monday
-**6th February** - [Lab 14 Seminar Room, 700 Swanston St, Carlton, Victoria](https://www.carltonconnect.com.au/our-community/lab-14/)
+**6th February** - [Lab 14 Seminar Room, 700 Swanston St, Carlton, Victoria](https://goo.gl/maps/FD2cdrFeDfG2)
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -43,7 +43,7 @@ Built slides have [an index](https://gvlproject.github.io/dagobah-training/).
 | 18:00 | Close Day 1 | | All |
 
 #### Tuesday
-**7th February** - [Lab 14 Seminar Room, 700 Swanston St, Carlton, Victoria](https://www.carltonconnect.com.au/our-community/lab-14/)
+**7th February** - [Lab 14 Seminar Room, 700 Swanston St, Carlton, Victoria](https://goo.gl/maps/FD2cdrFeDfG2)
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -62,7 +62,7 @@ Built slides have [an index](https://gvlproject.github.io/dagobah-training/).
 | 18:00 | Close Day 2 | | All |
 
 #### Wednesday
-**8th February** - [Lab 14 Seminar Room, 700 Swanston St, Carlton, Victoria](https://www.carltonconnect.com.au/our-community/lab-14/)
+**8th February** - [Lab 14 Seminar Room, 700 Swanston St, Carlton, Victoria](https://goo.gl/maps/FD2cdrFeDfG2)
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
@@ -83,7 +83,7 @@ Built slides have [an index](https://gvlproject.github.io/dagobah-training/).
 **We will most likely all go out for dinner together somewhere local tonight**
 
 #### Thursday
-**9th February** - [Lab 14 Seminar Room, 700 Swanston St, Carlton, Victoria](https://www.carltonconnect.com.au/our-community/lab-14/)
+**9th February** - [Lab 14 Seminar Room, 700 Swanston St, Carlton, Victoria](https://goo.gl/maps/FD2cdrFeDfG2)
 
 | **Time** | **Topic** | **Links** | **Instructor** |
 | -------- | --------- | --------- | ----------- |
