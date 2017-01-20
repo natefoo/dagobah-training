@@ -23,7 +23,7 @@ Australia
 - Björn Grüning 
   -  University of Freiburg [@bjoerngruening](https://twitter.com/bjoerngruening)
 - Ross Lazarus
-  -  Baker IDI Institute and Galaxy Legend!
+  -  Formerly of Baker IDI and Galaxy Legend!
 ]
 .footnote[\#usegalaxy \#GAT2017 / @galaxyproject]
 
@@ -49,7 +49,7 @@ class: special, center, middle
 .large[
 We did our best to plan the session times for the expected content, and to build the content for the session time.
 
-Almost all of this content is brand new, there may be sessions that are too long or short - apologies in advance.
+Almost all of this content is new, there may be sessions that are too long or short - apologies in advance.
 ]
 ---
 # Communication channels
@@ -72,10 +72,9 @@ Almost all of this content is brand new, there may be sessions that are too long
 ---
 # Thanks
 .large[
-- **Karen Eilbeck (!!!)**
-- Barry Moore
-- Anita Orendt
-- Steve Harper
+- **Christina Hall**
+- Ben Moran
+- Chris Samuels
 - **Dave Clements**
 ]
 .footnote[[bit.ly/saltgalaxy](https://bit.ly/saltgalaxy)]
@@ -85,20 +84,14 @@ Almost all of this content is brand new, there may be sessions that are too long
 
 We would like to thank:
 .large[
-- [University of Utah Center for High Performance Computing (CHPC)](http://www.chpc.utah.edu/)
-- [USTAR Center for Genetic Discovery (UCGD) @ University of Utah](http://ucgd.genetics.utah.edu/)
-- [Department of Biomedical Informatics @ University of Utah](http://medicine.utah.edu/dbmi/)
-- [Clinical & Translational Science Biomedical Informatics Core (CCTS BMIC) @ University of Utah](http://medicine.utah.edu/ccts/bmic/)
+- [Victorian Life Sciences Computation Initiative, University of Melbourne (VLSCI)](http://vlsci.org.au/)
+- [Carlton Connect Initiative, University of Melbourne](https://www.carltonconnect.com.au/)
 ]
 .footnote[[bit.ly/saltgalaxy](https://bit.ly/saltgalaxy)]
 
 ---
 # Future events
 .large[
-January 16-19, European Galaxy Developer Workshop - Strasbourg, France
-
-February 3-9, Galaxy Australasia Meeting (GAMe 2017) - University of Melbourne, Victoria, Australia
-
 June 26-30, Galaxy Community Conference (GCC2017) - Montpellier, France
 ]
 .footnote[[bit.ly/saltgalaxy](https://bit.ly/saltgalaxy)]
